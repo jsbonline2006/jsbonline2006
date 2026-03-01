@@ -2,8 +2,11 @@
 <hr></hr>
 
 📫 Connect With Me
+
 📍 Bournemouth, UK (Open to Remote)
+
 📧 bhoyar.jayesh.16@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/jayeshbhoyar
 
 <hr></hr>
