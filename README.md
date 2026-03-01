@@ -1,6 +1,12 @@
 ## Hi 👋, Jayesh Bhoyar Here!!!
 <hr></hr>
 
+📫 Connect With Me
+📍 Bournemouth, UK (Open to Remote)
+📧 bhoyar.jayesh.16@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/jayeshbhoyar
+
+<hr></hr>
 
 <!--
 **jsbonline2006/jsbonline2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
